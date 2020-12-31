@@ -1,0 +1,19 @@
+{
+  "name": "addnumber",
+  "version": "1.0.0",
+  "description": "package test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basavarajglb/package-test.git"
+  },
+  "author": "basavaraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basavarajglb/package-test/issues"
+  },
+  "homepage": "https://github.com/basavarajglb/package-test#readme"
+}
